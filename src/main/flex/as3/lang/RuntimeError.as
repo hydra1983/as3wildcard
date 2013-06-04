@@ -1,4 +1,4 @@
-package as3.lang.errors
+package as3.lang
 {
 	public class RuntimeError extends Error
 	{
